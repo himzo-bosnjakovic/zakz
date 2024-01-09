@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156720314553",
+    "project_id": "zakz-app",
+    "storage_bucket": "zakz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156720314553:android:9d505b59f78afb291c0368",
+        "android_client_info": {
+          "package_name": "com.tranquillodev.zakz.zakz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjyMrA6qZOTSKYWs6n4pV2XZE--AuWRSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
